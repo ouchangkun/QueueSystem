@@ -3,8 +3,10 @@ QueueSystem
 
 This project is a bank queue system simulation.
 It is written by C language.
-This code is in the following pages in a video tutorial.
+I'm a Chinese developer, so the comments in the code is written in Chinese, if you can't understand Chinese, do not  tension, formal code I didn't use Chinese. 
+The code is very simple, I believe that you don't need comments will also be able to understand it.
 
+This code is in the following pages in a video tutorial.
 This video is divided into four parts in total: 
 1, chain queue and service desk;
 2, time line and simulator (on);
